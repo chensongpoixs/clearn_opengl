@@ -11,3 +11,7 @@ appengine-generated/
 /deps/glfw/CONTRIBUTORS.md
 /deps/glfw/LICENSE.md
 /deps/glfw/build
+/learn_opengl/.vs
+/learn_opengl/vsout
+/learn_opengl/bin/x64
+/learn_opengl/opengl_window/opengl_window.vcxproj.user
