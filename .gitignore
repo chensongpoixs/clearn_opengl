@@ -1,2 +1,13 @@
 # Google App Engine generated folder
 appengine-generated/
+/deps/glfw/README.md
+/deps/glfw/CMake
+/deps/glfw/deps
+/deps/glfw/docs
+/deps/glfw/examples
+/deps/glfw/src
+/deps/glfw/tests
+/deps/glfw/CMakeLists.txt
+/deps/glfw/CONTRIBUTORS.md
+/deps/glfw/LICENSE.md
+/deps/glfw/build
