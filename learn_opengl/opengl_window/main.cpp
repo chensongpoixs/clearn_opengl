@@ -28,8 +28,11 @@ int main()
 	// glfw: initialize and configure
 	// ------------------------------
 	glfwInit();
+	//设置 主要版本 
 	glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 3);
+	// 设置次要版本
 	glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 3);
+	//  下载OpenGL是 核心模式   [Core]
 	glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
 
 #ifdef __APPLE__
@@ -46,6 +49,7 @@ int main()
 		return -1;
 	}
 	glfwMakeContextCurrent(window);
+	// 注册窗口变化时回调函数 
 	glfwSetFramebufferSizeCallback(window, framebuffer_size_callback);
 
 	// glad: load all OpenGL function pointers

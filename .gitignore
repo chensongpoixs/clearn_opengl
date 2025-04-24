@@ -15,3 +15,9 @@ appengine-generated/
 /learn_opengl/vsout
 /learn_opengl/bin/x64
 /learn_opengl/opengl_window/opengl_window.vcxproj.user
+/learn_opengl/03_opengl_ebo/03_opengl_ebo.vcxproj.user
+/learn_opengl/03_opengl_ebo/03_opengl_ebo.vcxproj.filters
+/learn_opengl/x64/Debug/03_opengl_ebo.exe
+/learn_opengl/x64/Debug/03_opengl_ebo.ilk
+/learn_opengl/x64/Debug/03_opengl_ebo.pdb
+/learn_opengl/vbo_vao_ebo/vbo_vao_ebo.vcxproj.user
